@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shweta</h1>
 <h3 align="center">A passionate MERN STACK developer from India</h3>
 
-- 🔭 I’m currently working on **DOTNET Projects**
+- 🔭 I’m currently working on **MERN Projects**
 
 - 🌱 I’m currently learning **JAVA , DSA , MERN STACK**
 
