@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://shwetacseportfolio.netlify.app/](https://shwetacseportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://shwetareactprotfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
